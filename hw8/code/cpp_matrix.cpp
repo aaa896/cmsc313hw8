@@ -48,7 +48,7 @@ struct Mat4x4 {
         return res;
     }
 
-    Mat4x4& operator=(Mat4x4& other) {
+    Mat4x4& operator=(const Mat4x4& other) {
         this->cols = other.cols;
         this->rows = other.rows;
         for (int i = 0; i <4; ++i) {
