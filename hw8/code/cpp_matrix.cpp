@@ -5,7 +5,7 @@ struct Mat4x4 {
     int rows;
     int cols;
 
-    Mat4x4 operator+(Mat4x4& other) {
+    Mat4x4 operator+(const Mat4x4& other) {
         Mat4x4 res;
         if (other.cols > this->cols)  res.cols = other.cols;
         else                          res.cols = this->cols;
@@ -20,7 +20,7 @@ struct Mat4x4 {
         return res;
     }
 
-    Mat4x4 operator*(Mat4x4 & other) {
+    Mat4x4 operator*(const Mat4x4 & other) {
         Mat4x4 res ={0};
         res.rows = this->rows; 
         res.cols = other.cols;
