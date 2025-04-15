@@ -19,4 +19,8 @@ TESTING METHODOLOGY:
 i printed and checked the output  
 
 ADDITIONAL INFORMATION:  
-output is the printed equation solved, r files run both c and c ++ versions
+output is the printed equation solved, r files run both c and c ++ versions  
+
+
+https://github.com/user-attachments/assets/71285905-9c38-41ee-8e77-dc491719abb6
+
