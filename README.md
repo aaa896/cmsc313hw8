@@ -19,4 +19,4 @@ TESTING METHODOLOGY:
 i printed and checked the output  
 
 ADDITIONAL INFORMATION:  
-none  
+dos2unix may be needed on r.sh 
