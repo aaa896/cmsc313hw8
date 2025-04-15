@@ -5,7 +5,7 @@ PURPOSE OF SOFTWARE:
 Test difference in c/c++ code 
 
 FILES: 
-b.bat           builds on windows with cl 
+b.bat           builds on windows with cl  
 r.bat           runs on windows from b.bat build
 r.sh            compiles and runs with g++ 
 c_matrix.c      example c matrix code
