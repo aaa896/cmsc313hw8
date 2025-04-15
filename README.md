@@ -19,8 +19,7 @@ TESTING METHODOLOGY:
 i printed and checked the output  
 
 ADDITIONAL INFORMATION:  
-output is the printed equation solved, r files run both c and c ++ versions  
+b.bat and r.bat output example  
 
-
-https://github.com/user-attachments/assets/71285905-9c38-41ee-8e77-dc491719abb6
+https://github.com/user-attachments/assets/3505576d-b9e3-4ee1-82e9-397690136bfc
 
