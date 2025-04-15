@@ -7,7 +7,7 @@ Test difference in c/c++ code
 FILES: 
 b.bat           builds on windows with cl  
 r.bat           runs on windows from b.bat build  
-r.sh            compiles and runs with g++  
+r.sh            compiles and runs with gcc  
 c_matrix.c      example c matrix code  
 cpp_matrix.cpp  example c++ matrix code  
 
