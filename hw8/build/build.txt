@@ -1,1 +1,1 @@
-only used if using b.bat 
+dir only used if using b.bat 
