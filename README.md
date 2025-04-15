@@ -2,7 +2,7 @@ AUTHORING:
 Shabbeer Ali, UMBC/cmsc313/Section 4 MoWe 10-11:15
 
 PURPOSE OF SOFTWARE:
-Test difference in c/c++ code 
+Test difference in c/c++ code by calculating a matrix equation 
 
 FILES: 
 b.bat           builds on windows with cl  
@@ -13,10 +13,10 @@ cpp_matrix.cpp  example c++ matrix code
 
 BUILD INSTRUCTIONS:  
 run b.bat and r.bat on windows. Can use developer prompt if not set up.  
-run r.sh shell script for linux after chmod +x  
+run r.sh shell script for linux after chmod +x. dos2unix may be needed on r.sh  
 
 TESTING METHODOLOGY:  
 i printed and checked the output  
 
 ADDITIONAL INFORMATION:  
-dos2unix may be needed on r.sh 
+output is the printed equation solved, r files run both c and c ++ versions
