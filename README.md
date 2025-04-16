@@ -22,8 +22,10 @@ ADDITIONAL INFORMATION:
 b.bat and r.bat output example  
 
 
-https://github.com/user-attachments/assets/5b3756fe-90bb-4758-bfc7-bbc0b5665741
+https://github.com/user-attachments/assets/5b3756fe-90bb-4758-bfc7-bbc0b5665741  
 
+linux commands
+![lin_com](https://github.com/user-attachments/assets/bbc35847-3e20-4ada-8b78-b4dffb87e9a4)
 
 
 
