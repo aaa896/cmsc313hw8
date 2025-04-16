@@ -18,7 +18,7 @@ run r.sh shell script for linux after chmod +x. dos2unix may be needed on r.sh
 TESTING METHODOLOGY:  
 i printed and checked the output  
 
-ADDITIONAL INFORMATION: bat and sh outputs
+ADDITIONAL INFORMATION: bat and sh outputs  
 b.bat and r.bat output example  
 
 
