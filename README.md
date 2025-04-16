@@ -25,7 +25,8 @@ b.bat and r.bat output example
 https://github.com/user-attachments/assets/5b3756fe-90bb-4758-bfc7-bbc0b5665741  
 
 linux commands  
-![lin_com](https://github.com/user-attachments/assets/ec930e37-7978-4448-ba0f-7f6a10ce211d)
+![lin_com](https://github.com/user-attachments/assets/cd0597ef-9bf0-46a6-8882-604cf8c1b592)
+
 
 
 
