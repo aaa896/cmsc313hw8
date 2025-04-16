@@ -21,5 +21,10 @@ i printed and checked the output
 ADDITIONAL INFORMATION:  
 b.bat and r.bat output example  
 
-https://github.com/user-attachments/assets/3505576d-b9e3-4ee1-82e9-397690136bfc
+
+https://github.com/user-attachments/assets/5b3756fe-90bb-4758-bfc7-bbc0b5665741
+
+
+
+
 
